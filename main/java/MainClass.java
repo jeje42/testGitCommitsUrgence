@@ -13,6 +13,8 @@ public class MainClass {
 		
 		System.out.println("Travail normal 1");
 		
+		System.out.println("Urgence !");
+		
 		System.out.println("Travail Normal 2");
 
 	}
