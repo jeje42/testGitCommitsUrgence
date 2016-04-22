@@ -8,6 +8,8 @@ public class MainClass {
 		System.out.println("travail normal1");
 		
 		System.out.println("travail normal2");
+		
+		System.out.println("Urgence");
 	}
 
 }
