@@ -10,6 +10,8 @@ public class MainClass {
 		System.out.println("Commit 2");
 		
 		System.out.println("Commit 3");
+		
+		System.out.println("Travail normal 1");
 
 	}
 
